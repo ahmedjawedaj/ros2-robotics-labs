@@ -1,0 +1,6 @@
+# Project dependencies. Choose a PyTorch build compatible with your runtime.
+numpy
+opencv-python
+jupyterlab
+nbformat
+ipython
